@@ -1,0 +1,17 @@
+Watching for file changes with StatReloader
+C:\Users\wioll\web_project\hello\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /contact/ HTTP/1.1" 200 555
+"GET /static/css/site.css HTTP/1.1" 304 0
+"GET /contact/ HTTP/1.1" 200 555
+"GET /about/ HTTP/1.1" 200 533
+"GET / HTTP/1.1" 200 544
+"GET /contact/ HTTP/1.1" 200 555
+"GET /about/ HTTP/1.1" 200 533
+"GET /contact/ HTTP/1.1" 200 555
+"GET /blog/ HTTP/1.1" 200 6946
+"GET / HTTP/1.1" 200 544
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 544
+"GET / HTTP/1.1" 200 544
+"GET /blog/ HTTP/1.1" 200 6946
